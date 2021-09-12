@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: AI Agent Visual Overlay
+## Notes: Overlays to expose features to be used by visual deep learning models
+## Author: Robbie Dunn
+## Version: 0.1
+
+AIOverlay.lua
